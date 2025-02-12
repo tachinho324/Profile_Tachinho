@@ -1,4 +1,4 @@
-# Hi, I'm Gonzalo 👋
+# Hi, I'm Meek 👋
 
 I'm a data-driven Business Analytics professional specializing in retail media networks and AI-powered insights. With expertise in cloud technologies, data pipeline optimization, and advanced analytics, I transform complex data into strategic business solutions.
 Currently, I'm leveraging my skills as an Associate Data Analyst at HY-VEE, where I've developed AI chatbots, automated data pipelines, and optimized analytics implementations. My experience spans from founding a personalized meal app to conducting machine learning research.
