@@ -28,18 +28,27 @@ Feel free to explore my projects and reach out if you'd like to collaborate or d
 
 ## 👨‍💼 Professional Experience
 
-I am a data professional with a proven track record of impactful contributions in various internship roles.
+I am a data professional with a strong track record of driving insights and efficiency across various roles.
 
-• **[Data Science Intern, HY-VEE](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1JP5rQLdW1SgI6cHVirWKVrrGF_laRfsF/edit?authuser=1)**
-- I optimized data workflows, developed a revenue-boosting Python algorithm, and proposed strategic enhancements.
+• **[Data Management & Digital Marketing Intern, GetOut, Inc](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1JP5rQLdW1SgI6cHVirWKVrrGF_laRfsF/edit?authuser=1)**
+- I Built a public facilities database and created videos to enhance brand awareness and user engagement.
 
-• **[Business Analyst Intern, IPS GROUP](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**
-- I streamlined processes through a Qlik Sense dashboard, improving deal management and saving time.
+• **[Product Marketing Specialist, DFI](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**
+- I Optimized product launches, conducted competitive analysis, and leveraged Google Analytics to boost sales.
 
-• **[Data Analyst Intern, Gonvarri Industries](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
-- I designed risk analysis dashboards, managed emissions data, and collaborated on environmental reports.
+• **[Startup Consultant & Event Planner, SYNTREND](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
+- I Organized networking events, advised startups on marketing, and analyzed venue sales for better targeting.
 
-These experiences have strengthened my technical skills and my ability to deliver impactful insights, making me well-equipped for future data-driven challenges.
+• **[Digital Marketing Specialist, FAYAQUE CO., LTD.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
+- I Drove e-commerce growth, improved event engagement, and optimized web product performance.
+
+• **[Marketing Specialist, Arete CO.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
+- I Analyzed campaign data, managed social media, and executed events to strengthen brand interaction.
+
+• **[Intern, Huanju Zhiben Investment Co.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
+- I Gained hands-on experience in business operations, venture capital, and startup strategy.
+
+These roles have sharpened my technical and analytical skills, equipping me for future data-driven challenges.
 
 ## 📊 University Projects
 
