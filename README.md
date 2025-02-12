@@ -1,9 +1,8 @@
 # Hi, I'm Meek 👋
 
-I'm a data-driven Business Analytics professional specializing in retail media networks and AI-powered insights. With expertise in cloud technologies, data pipeline optimization, and advanced analytics, I transform complex data into strategic business solutions.
-Currently, I'm leveraging my skills as an Associate Data Analyst at HY-VEE, where I've developed AI chatbots, automated data pipelines, and optimized analytics implementations. My experience spans from founding a personalized meal app to conducting machine learning research.
-I'm passionate about using data to drive decision-making efficiency and business growth. Always eager to tackle new challenges, I'm open to exciting opportunities that allow me to apply my analytical skills and innovative thinking to solve complex business problems.
-Feel free to explore my projects and reach out if you'd like to collaborate or discuss data-driven solutions!
+Experienced graduate student with a master’s degree in Marketing Analytics, specializing in data analysis, digital marketing, and strategic planning. Skilled in leveraging AI-powered insights and advanced analytics to drive business growth and decision-making efficiency.
+As a data-driven Business Analytics professional, I excel at transforming complex data into actionable strategies that enhance organizational performance. Passionate about solving business challenges through innovative, data-driven solutions, I am always eager to explore new opportunities.
+Feel free to explore my projects and connect if you're interested in collaborating on data-driven initiatives!
 
 ## 🌐 Connect with Me
 
