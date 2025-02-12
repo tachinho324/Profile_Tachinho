@@ -22,9 +22,7 @@ Feel free to explore my projects and reach out if you'd like to collaborate or d
 
 - **Visualization:** ![Tableau Badge](https://img.shields.io/badge/Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23F2C811?style=flat&logo=power-bi&logoColor=black)
-![Qlik Badge](https://img.shields.io/badge/Qlik-%23009848?style=flat&logo=qlik&logoColor=white)
 - **Big Data:** ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=flat&logo=apache-spark&logoColor=white)
- & H2O Ai
 - **Languages:** Fluent in English; Mandarin native
 
 
@@ -51,15 +49,6 @@ My academic adventures:
 - [TripAdvisor Review Web Scraper](https://github.com/gonzalovaldenebro/TripAdvisorReviewsWebScrapper)
 - [Solar Panel Image Dust Classification](https://github.com/gonzalovaldenebro/Solar_Pannel_Dust_Classification)
 - [Predicting Wind Turbine Outcomes for Berkshire Hathaway Energy](https://github.com/gonzalovaldenebro/DataAnalyticsCapstone)
-
-## 🌌 Research 
-### Machine Learning at Drake University
-• 📅 Sep 2021 – Present
--  **🏅 Consortium for Computer Science in Colleges Central Plains 2022 Poster Contest 1st Place** 
-- Bank Health and Failure Prediction Using Machine Learning
-- Processed 5K response variables extracted from Bank Call Reports to extract feature importance
-- Led the experimentation of Machine Learning models with 8+ students
-- Effectively executed work according to Agile Scrum principles, with weekly stand-ups
 
 ## 👥 Leadership
 As President of DATA CLUB, I've cast spells of growth and community:
