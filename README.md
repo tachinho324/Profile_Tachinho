@@ -17,17 +17,15 @@ Feel free to explore my projects and reach out if you'd like to collaborate or d
 
 ## 💻 Tech Toolbox
 
-- **Statistical Software:** ![Python Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![R Badge](https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white) &  SAS
-- **Database Management:** ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white) ![DynamoDB Badge](https://img.shields.io/badge/DynamoDB-%234053D6?style=flat&logo=amazon-dynamodb&logoColor=white) & NoSQL
-
-- **Cloud Computing:** ![Azure Badge](https://img.shields.io/badge/Azure-%230078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Amazon Badge](https://img.shields.io/badge/Amazon-%23232F3E?style=flat&logo=amazon&logoColor=white) ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-%23669DF6?style=flat&logo=google-cloud&logoColor=white)
+- **Statistical Software:**  ![R Badge](https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white) &  Data Robot
+- **Database Management:** ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) 
 
 - **Visualization:** ![Tableau Badge](https://img.shields.io/badge/Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Qlik Badge](https://img.shields.io/badge/Qlik-%23009848?style=flat&logo=qlik&logoColor=white)
 - **Big Data:** ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=flat&logo=apache-spark&logoColor=white)
  & H2O Ai
-- **Languages:** Fluent in English; Spanish native
+- **Languages:** Fluent in English; Mandarin native
 
 
 ## 👨‍💼 Professional Experience
