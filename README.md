@@ -7,14 +7,13 @@ Feel free to explore my projects and reach out if you'd like to collaborate or d
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-valdenebro-035392157/)           [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tachin/)           [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/gonzalo-valdenebro/home)
 
 ## 📚 Education
 
-• 🎓 **Bachelor of Science in Business Administration**
-  - **Drake University**, Des Moines, IA
-  - Expected Graduation: **December 2023**
-  - 🏅 Presidential Scholarship, Zimpleman College of Business Leadership Award of Excellence (2022 & 2023)
+• 🎓 **Master of Science in Marketing Analytics**
+  - **Illinois Institute Of Technology**, Chicago, IL
+  - Expected Graduation: **May 2025**
 
 ## 💻 Tech Toolbox
 
