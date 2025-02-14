@@ -25,7 +25,7 @@ Feel free to explore my projects and connect if you're interested in collaborati
 - **Visualization:** ![Tableau Badge](https://img.shields.io/badge/Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23F2C811?style=flat&logo=power-bi&logoColor=black)
 - **Big Data:** ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=flat&logo=apache-spark&logoColor=white)
-- **Languages:** Fluent in English; Mandarin native
+- **Languages:** Fluent in English; Mandarin native; Basic proficiency in Japanese and French
 
 
 ## 👨‍💼 Professional Experience
