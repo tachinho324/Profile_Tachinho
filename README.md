@@ -56,7 +56,7 @@ These roles have sharpened my technical and analytical skills, equipping me for 
 
 My academic adventures:
 
-- [Natural Language Processing Portfolio](https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio)
+- [DataRobot - Google Play Analytics]([https://github.com/gonzalovaldenebro/NaturalLanguageProcessing-Portfolio](https://github.com/tachinho324/DataRobot_Google-Play-Analytics/tree/main))
 - [TripAdvisor Review Web Scraper](https://github.com/gonzalovaldenebro/TripAdvisorReviewsWebScrapper)
 - [Solar Panel Image Dust Classification](https://github.com/gonzalovaldenebro/Solar_Pannel_Dust_Classification)
 - [Predicting Wind Turbine Outcomes for Berkshire Hathaway Energy](https://github.com/gonzalovaldenebro/DataAnalyticsCapstone)
