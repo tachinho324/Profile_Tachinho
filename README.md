@@ -18,6 +18,8 @@ Feel free to explore my projects and connect if you're interested in collaborati
 
 - **Statistical Software:**  ![R Badge](https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white) & ![Excel](https://img.shields.io/badge/Excel%20-%20light%20green?style=flat)
 
+- **Data Analysis Tool:** ![DataRobot](https://img.shields.io/badge/DataRobot%20-%20purple?style=flat)
+
 - **Database Management:** ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) 
 
 - **Visualization:** ![Tableau Badge](https://img.shields.io/badge/Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
