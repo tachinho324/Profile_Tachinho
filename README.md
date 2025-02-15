@@ -57,6 +57,6 @@ These roles have sharpened my technical and analytical skills, equipping me for 
 My academic adventures:
 
 - [DataRobot - Google Play Analytics](https://github.com/tachinho324/DataRobot_Google-Play-Analytics/tree/main)
-- [Teach for America Analytics Project](https://github.com/tachinho324/TEACH-FOR-AMERICA-PREDICTIVE-ANALYTICS-PROJECT))
+- [Teach for America Analytics Project](https://github.com/tachinho324/TEACH-FOR-AMERICA-PREDICTIVE-ANALYTICS-PROJECT)
 - [Solar Panel Image Dust Classification](https://github.com/gonzalovaldenebro/Solar_Pannel_Dust_Classification)
 - [Predicting Wind Turbine Outcomes for Berkshire Hathaway Energy](https://github.com/gonzalovaldenebro/DataAnalyticsCapstone)
