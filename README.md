@@ -58,4 +58,4 @@ My academic adventures:
 
 - [DataRobot - Google Play Analytics](https://github.com/tachinho324/DataRobot_Google-Play-Analytics/tree/main)
 - [Teach for America Analytics Project](https://github.com/tachinho324/TEACH-FOR-AMERICA-PREDICTIVE-ANALYTICS-PROJECT)
-- [FoxCore Retail Database Design Project](https://github.com/gonzalovaldenebro/Solar_Pannel_Dust_Classification)
+- [FoxCore Retail Database Design Project](https://github.com/tachinho324/FoxCore-Retail-Database-Design-Project)
