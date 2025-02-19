@@ -56,6 +56,6 @@ These roles have sharpened my technical and analytical skills, equipping me for 
 My academic adventures:
 
 - [DataRobot - Google Play Analytics](https://github.com/tachinho324/DataRobot_Google-Play-Analytics/tree/main)
-- [Teach for America Analytics Project](https://github.com/tachinho324/TEACH-FOR-AMERICA-PREDICTIVE-ANALYTICS-PROJECT)
-- [FoxCore Retail Database Design Project](https://github.com/tachinho324/FoxCore-Retail-Database-Design-Project)
-- [Vivino Strategy Analytics Project](https://github.com/tachinho324/FoxCore-Retail-Database-Design-Project)
+- [Teach for America Analytics](https://github.com/tachinho324/TEACH-FOR-AMERICA-PREDICTIVE-ANALYTICS-PROJECT)
+- [FoxCore Retail Database Design](https://github.com/tachinho324/FoxCore-Retail-Database-Design-Project)
+- [Vivino Strategy Analytics](https://github.com/tachinho324/FoxCore-Retail-Database-Design-Project)
