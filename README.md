@@ -57,5 +57,5 @@ My academic adventures:
 
 - [DataRobot - Google Play Analytics](https://github.com/tachinho324/DataRobot_Google-Play-Analytics/tree/main)
 - [Teach for America Analytics](https://github.com/tachinho324/TEACH-FOR-AMERICA-PREDICTIVE-ANALYTICS-PROJECT)
-- [FoxCore Retail Database Design](https://github.com/tachinho324/FoxCore-Retail-Database-Design-Project)
+- [FoxCore Retail Database Design](https://github.com/tachinho324/FoxCore-Retail-Database-Design)
 - [Vivino Strategy Analytics](https://github.com/tachinho324/Vivino-Strategy-Analytics-Project)
