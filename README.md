@@ -34,7 +34,7 @@ I am a data professional with a strong track record of driving insights and effi
 • **[Data Management & Digital Marketing Intern, GetOut, Inc]**
 - I helped build a public facilities database and created videos to boost brand awareness and user engagement.
 
-• **[Product Marketing Specialist, DFI](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**
+• **[Product Marketing Specialist, DFI Inc.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**
 - I Optimized product launches, conducted competitive analysis, and leveraged Google Analytics to boost sales.
 
 • **[Startup Consultant & Event Planner, SYNTREND Startup Foundation](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
@@ -43,7 +43,7 @@ I am a data professional with a strong track record of driving insights and effi
 • **[Digital Marketing Specialist, FAYAQUE CO., LTD.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
 - I Drove e-commerce growth, improved event engagement, and optimized web product performance.
 
-• **[Marketing Specialist, ARETE DIGITAL SOCIAL MARKETING CO.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
+• **[Marketing Specialist, ARETE DIGITAL SOCIAL MARKETING CO., LTD.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
 - I Analyzed campaign data, managed social media, and executed events to strengthen brand interaction.
 
 • **[Intern, Huanju Zhiben Investment Co.]** 
