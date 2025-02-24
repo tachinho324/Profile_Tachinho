@@ -32,7 +32,7 @@ Feel free to explore my projects and connect if you're interested in collaborati
 I am a data professional with a strong track record of driving insights and efficiency across various roles.
 
 • **[Data Management & Digital Marketing Intern, GetOut, Inc]**
-- I Built a public facilities database and created videos to enhance brand awareness and user engagement.
+- I helped build a public facilities database and created videos to boost brand awareness and user engagement.
 
 • **[Product Marketing Specialist, DFI](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**
 - I Optimized product launches, conducted competitive analysis, and leveraged Google Analytics to boost sales.
@@ -46,7 +46,7 @@ I am a data professional with a strong track record of driving insights and effi
 • **[Marketing Specialist, Arete CO.](https://sites.google.com/d/185JFTGI6dKBHoIgy86Nrrn3KyNdDj55Q/p/1NGu1jWm7zG-zszfM0uZmChwsfr-ytjzg/edit?authuser=1)**, 
 - I Analyzed campaign data, managed social media, and executed events to strengthen brand interaction.
 
-• **[Intern, Huanju Zhiben Investment Co.]**, 
+• **[Intern, Huanju Zhiben Investment Co.]** 
 - I Gained hands-on experience in business operations, venture capital, and startup strategy.
 
 These roles have sharpened my technical and analytical skills, equipping me for future data-driven challenges.
