@@ -23,7 +23,6 @@ Feel free to explore my projects and connect if you're interested in collaborati
 - **Database Management:** ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) 
 
 - **Visualization:** ![Tableau Badge](https://img.shields.io/badge/Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23F2C811?style=flat&logo=power-bi&logoColor=black)
 - **Languages:** Fluent in English; Mandarin native; Basic proficiency in Japanese and French
 
 
