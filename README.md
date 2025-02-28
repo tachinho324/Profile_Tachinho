@@ -6,7 +6,7 @@ Feel free to explore my projects and connect if you're interested in collaborati
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tachin/)           [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/hawk.iit.edu/tachinho/bio?authuser=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tachin/)           [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://sites.google.com/hawk.iit.edu/tachin?usp=sharing)
 
 ## 📚 Education
 
