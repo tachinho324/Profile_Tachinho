@@ -16,11 +16,11 @@ Feel free to explore my projects and connect if you're interested in collaborati
 
 ## 💻 Tech Toolbox
 
-- **Statistical Software:**  ![R Badge](https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white) & ![Excel](https://img.shields.io/badge/Excel%20-%20light%20green?style=flat)
+- **Statistical Software:**  ![R Badge](https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white) & ![Excel](https://img.shields.io/badge/Excel%20-%20light%20green?style=flat) & ![Python Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 
 - **AI Analysis Tool:** ![DataRobot](https://img.shields.io/badge/DataRobot%20-%20purple?style=flat)
 
-- **Database Management:** ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) 
+- **Database Management:** ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) ![Teradata Badge](https://img.shields.io/badge/Teradata-orange?style=flat&logo=Teradata&logoColor=white)  
 
 - **Visualization:** ![Tableau Badge](https://img.shields.io/badge/Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
 - **Languages:** Fluent in English; Mandarin native; Basic proficiency in Japanese and French
